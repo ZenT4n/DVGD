@@ -1,0 +1,17 @@
+TASK_TYPE: inference_i2vgen_entrance
+use_fp16: True
+guide_scale: 9.0
+use_fp16: True
+chunk_size: 2
+decoder_bs: 2
+max_frames: 32      # 改成32就是4s
+target_fps: 32      # FPS Conditions, not the encoding fps
+scale: 8
+seed: 8888
+round: 1  # 一个文本生成几个目标视频
+batch_size: 1
+use_zero_infer: True 
+# For important input
+vldm_cfg: configs/i2vgen_xl_train.yaml
+test_list_path: # path for text
+test_model: # path for checkpoint checkpoints/i2vgen-xl/i2vgen_xl_00854500.pth

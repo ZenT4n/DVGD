@@ -14,7 +14,7 @@ I2VGen-xl video
 
 ## Datasets
 
-If you want to download the dataset, please mail for us zhengtp@mail.hfut.edu.cn
+If you want to download the dataset, please mail for us zhengtp@mail.hfut.edu.cn  
 
 ## Video generate
 
@@ -29,3 +29,14 @@ You can see the code in `metrics/EvalCrafter` and `metrics/AIGCBench`
 
 ## Detection
 The detection method we follow the `SlowFast`
+## Citation
+```bibtex
+@article{郑天鹏 2024 扩散模型生成视频数据集及其检测基准研究,
+title={扩散模型生成视频数据集及其检测基准研究},
+author={郑天鹏 and 陈雁翔 and 温心哲 and 李严成 and 王志远},
+journal={中国图象图形学报},
+pages={1-13},
+year={2024},
+doi={10.11834/jig.240259},
+}
+```

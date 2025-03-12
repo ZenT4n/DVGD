@@ -14,7 +14,7 @@ I2VGen-xl video
 
 ## Datasets
 
-Dataset download (ScienceDB)[https://cstr.cn/31253.11.sciencedb.22031]
+Dataset download [ScienceDB](https://cstr.cn/31253.11.sciencedb.22031)
 
 ## Video generate
 

@@ -14,7 +14,7 @@ I2VGen-xl video
 
 ## Datasets
 
-If you want to download the dataset, please mail for us zhengtp@mail.hfut.edu.cn  
+Dataset download (ScienceDB)[https://cstr.cn/31253.11.sciencedb.22031]
 
 ## Video generate
 
